@@ -1,4 +1,4 @@
-# Dune: Imperium - Arrakeen Scout Mode Conversion Rules
+# Dune: Imperium - Arrakeen Scout Mode Card Conversion Rules 
 
 Detailed rules for the port of "Arrakeen Scout Mode" from the "Dune: Imperium Companion App" by Dire Wolf Digital. 
 
