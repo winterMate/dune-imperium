@@ -4,7 +4,7 @@ Useful(?) stuff for the awesome board game Dune: Imperium by Dire Wolf.
 
 ## Content
 
-- [Dune: Imperium - Arrakeen Scout Mode Card Conversion Rules](./arakeen-scout-mode-rules/)
+- [Dune: Imperium - Arrakeen Scout Mode Card Conversion - How To Play](./arakeen-scout-mode-rules/)
 
 ## References
 - [Dune: Imperium](https://www.direwolfdigital.com/dune-imperium/)

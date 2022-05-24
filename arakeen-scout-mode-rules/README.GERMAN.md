@@ -1,6 +1,6 @@
-# Dune: Imperium - Arrakeen Scout Mode Card Conversion Regeln
+# Dune: Imperium - Arrakeen Scout Mode Card Conversion - Anleitung
 
-Ausführliche Regelbeschreibung für die Portierung des „Arrakeen Scout Mode“ aus der "Dune: Imperium Companion App" von Dire Wolf Digital. 
+Ausführliche Anleitung wie man die Portierung des „Arrakeen Scout Mode“ aus der "Dune: Imperium Companion App" von Dire Wolf Digital. 
 
 Ursprüngliche Portierung auf druckbare Karten durch Board Game Geek (BGG) Nutzer baktubak.
 
